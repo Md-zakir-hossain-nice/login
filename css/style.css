@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: cadetblue;
+}
+/* logo and name start */
+.name{
+    margin-left:10px;
+    background-color: rgba(20, 241, 31, 0.986);
+    display:inline-block;
+    border: 5px solid rebeccapurple;
+    border-radius: 15px;
+    position: absolute;
+}
+
+/* logo start */
+.logo{
+    margin:auto;
+    left:5px;
+    padding: 5px;solid;
+    position: relative;
+    border-radius:30%;
+    width: 70px;  
+}
+/* logo down */
+
+/* logo name stat */
+.zwzs{
+    margin-top:-10px;
+    font-style: italic;
+    font-size: larger;
+}
+/* logo name down */
+
+/*  haed line start */
+.web{
+    margin: 10px;
+    text-align: center;
+    color: blue;
+    font-size:65px;
+    font-family: 'PT Serif', serif;
+    border: rgb(38, 250, 10) solid 10px;
+    background-color: rgba(215, 32, 209, 0.389);  
+}
+/*  haed line down */
+
+
+/*  marquee manu start */
+.Eid{
+    border: 5px solid rgba(52, 243, 5, 0.97);
+    font-size: 35px;
+    color: #fff;
+    background-color: rgb(5, 5, 189);
+    display: flex;
+    margin: 10px;
+    display:block;
+}
+
+/*  marquee manu down */
+
+.a{ 
+
+    width:auto;
+    background-color: rgba(82, 82, 207, 0.616);
+    margin:auto;
+    margin-top: 5px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid rgb(51, 247, 2);
+    display: flex;
+    border-radius: 10px;
+    text-transform:capitalize;
+
+}
+
+.a ul{
+    margin: 10px;
+    background-color: rgb(4, 241, 79);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    list-style: none;
+}
+
+.a ul li{
+    text-align: center;
+}
+
+
+.a ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.a ul:hover{
+    background-color: brown;
+    border:3px solid rgb(15, 245, 7) ;
+    font-style: italic;
+    transition: .2s;
+}
+
+.free{
+    margin-top: 510px;
+    background-color: aqua;
+    border: 2px solid rgba(135, 11, 173, 0.731);
+    text-align: center;
+    border-radius: 5px;
+    border-right-width:100px;
+    border-top-color:brown;
+    border-left-width:100px;
+    color: #000000bf;
+    font-style: italic;
+}
+
+.h h3{
+    color: azure;
+    background-color: blue;
+    border:5px solid white;
+    font-size: 40px;
+    
+}
+
+.link{
+    margin: 0px;
+    background-color: rgb(220, 220, 228);
+    border:5px solid rgba(230, 41, 41, 0.2);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+
+}
+
+

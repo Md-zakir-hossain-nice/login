@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(image/zakir80.JPG);
+    background-size: cover;
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content:0px;
+}
+
+.Register-now{
+    width: 330px;
+    height: 500px;
+    padding: 30px;
+    border: 5px solid #cee924;
+    border-radius: 10px;
+    outline: none;
+    background: rgb(54, 78, 95);
+}
+
+.form h2{
+    color: #23b2d6;
+
+}
+.inputt-style{
+    margin-top: 15px;
+}
+.inputt-style input{
+    width: 90%;
+    background: transparent;
+    padding: 3px;
+    border: 2px solid #16a085;
+    border-radius: 5px;
+    color:#090909;
+    outline: none;
+    height: 15px;
+    margin-bottom: 10px;
+}
+
+.inputt-style label{
+    color:#16d339; 
+    margin-bottom: 4px;
+    display: block;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 1px;
+}
+.gender p{
+    color:#1785a0;
+    margin-top: 4px;
+
+}
+.option{
+    margin-top: 6px;
+
+}
+.option label{
+    color: #0f8baa;
+    cursor: pointer;
+}
+
+.registed-page input{
+    width: 90%;
+    margin-top: 20px;
+    padding: 10px;
+    background:linear-gradient(130deg,#1abc9c,#16a085)
+    border-radius:5px;
+    cursor:pointer
+    border:none;
+}
+
+.registed-page input:hover{
+    background:linear-gradient(130deg,#6dddc6,#16a085)
+
+}

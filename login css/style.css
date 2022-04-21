@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgba(0, 255, 26, 0.263);
+
+}
+
+.will{
+    height: 100px;
+    background-color: aqua;
+    margin:50px;
+    border: 2px solid rgba(135, 11, 173, 0.731);
+    text-align: center;
+    outline: auto;
+    border-radius: 5px;
+    border-bottom: 5px;
+    border-right-width:100px;
+    border-left-width:100px;
+    border-top-color:brown;
+    color: #b91515bf;
+    font-size: 20px;
+    font-style: italic;
+}
+.will h1{
+    text-align: center;
+    margin: 25px;
+}
+.form{
+    height: 500px;
+    background-color: aqua;
+    margin:30px;
+    border: 2px solid rgba(135, 11, 173, 0.731);
+    text-align: center;
+    outline: auto;
+    border-radius: 5px;
+    border-bottom: 5px;
+    border-right-width:100px;
+    border-top-color:brown;
+    border-left-width:100px;
+    color: #b91515bf;
+    font-size: 25px;
+    font-style: italic;
+}
+.for{
+    color: rgb(37, 13, 246);
+    background-color: blueviolet;
+    border:5px solid #15b933b7;
+    border-radius:20px;
+    font-display:initial;
+    font-size: 50px;
+}
+.User{
+    font-size: 40px;
+    color: blue;
+    forced-color-adjust:100%;
+    position: relative;
+    display: block;
+    display: inline-block;
+}
+
+.name{
+    background-color: rgba(0, 4, 1, 0.613);
+    margin: auto;
+    font-size: 20px;
+    height: 30px;
+    border: 2px solid coral;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.email{
+    background-color: rgba(0, 4, 1, 0.613);
+    margin: auto;
+    font-size: 20px;
+    height: 30px;
+    border: 2px solid coral;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.pas{
+    background-color: rgba(0, 4, 1, 0.613);
+    margin: auto;
+    font-size: 20px;
+    height: 30px;
+    border: 2px solid coral;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+.login{
+    background-color: blueviolet;
+    border:3px solid  blue;
+    border-radius: 5px;
+    border-bottom: 5px;
+    font-size: 20px;
+    font-style: italic;
+    
+
+}
+
+.regitetion{
+    background-color: blueviolet;
+    border:3px solid blue;
+    border-radius: 5px;
+    border-bottom: 5px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.login:hover{
+    background-color: rgb(238, 4, 4);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    transition: .3s;
+}
+.regitetion:hover{
+    background-color: rgb(236, 6, 6);
+    font-size: 20px;
+    color: aliceblue;
+    font-style: normal;
+    transition: .3s;
+}
+
+.free{
+    background-color: aqua;
+    margin:0px;
+    border: 2px solid rgba(135, 11, 173, 0.731);
+    text-align: center;
+    outline: auto;
+    border-radius: 5px;
+    border-bottom: 5px;
+    border-right-width:100px;
+    border-top-color:brown;
+    border-left-width:100px;
+    color: #000000bf;
+    font-style: italic;
+}
+
+.h h3{
+    color: azure;
+    background-color: blue;
+    border:5px solid white;
+    font-size: 40px;
+    
+}
+
+.link{
+    margin: 0px;
+    background-color: rgb(220, 220, 228);
+    border:5px solid rgba(230, 41, 41, 0.2);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+
+}
